@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Foreground
+  - Player
+  - Dangerous
+  - Enemies
+  - Active Stuff
+  - Takeble
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4012185325
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Active Stuff
+    uniqueID: 3010995595
+    locked: 0
+  - name: Player
+    uniqueID: 3637322363
+    locked: 0
+  - name: Foreground
+    uniqueID: 3282213321
+    locked: 0
+  - name: Enemies
+    uniqueID: 2801709233
+    locked: 0
+  - name: Dangerous
+    uniqueID: 1730234841
+    locked: 0
+  - name: Takeble
+    uniqueID: 1751021337
+    locked: 0
